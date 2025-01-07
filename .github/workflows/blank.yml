@@ -36,7 +36,6 @@ jobs:
           echo test, and deploy your project.
 
 
-name: Generate Snake Animation
 
 on:
   schedule:
