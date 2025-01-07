@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: dist/snake.svg
+
+      - name: Upload Snake animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/snake.svg
+
+      - name: Commit and push Snake animation
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mv dist/snake.svg output/snake.svg
+          git add output/snake.svg
+          git commit -m "Generate Snake animation"
+          git push
