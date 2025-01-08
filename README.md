@@ -49,6 +49,6 @@
 
 ###
 
-
+![snake gif](https://github.com/DIOOWS/DIOOWS/blob/output/github-contribution-grid-snake.svg)
 
 ###
