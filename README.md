@@ -2,6 +2,11 @@
 
 ###
 
+
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/ea0b1709-e9bd-4230-bfd3-98b1b69c1928" />
+&nbsp;&nbsp;&nbsp;
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIOOWS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIOOWS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
