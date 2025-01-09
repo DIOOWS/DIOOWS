@@ -2,15 +2,19 @@
 
 ###
 
-
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/fcabaaf3-adf8-443e-87f1-599fcf68406a" />
 &nbsp;&nbsp;&nbsp;
 
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIOOWS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIOOWS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIOOWS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIOOWS&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=apprentice&hide_border=false" height="200" alt="languages graph"  />
 </div>
+
+###
+
+
 
 ###
 
@@ -62,7 +66,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIOOWS/DIOOWS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DIOOWS/DIOOWS/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DIOOWS/DIOOWS/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/DIOOWS/DIOOWS/output/snake.svg" alt="Snake animation" />
 </picture>
+
+
 
 ###
